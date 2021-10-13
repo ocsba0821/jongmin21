@@ -1,4 +1,4 @@
-## test from main
+### test both from master and branch
 
 ### checkout test
 
